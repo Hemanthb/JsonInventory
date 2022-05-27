@@ -1,17 +1,59 @@
-[
-  {
-    "Name": "Rice",
-    "price": "1000",
-    "weight": "10.0"
-  },
-  {
-    "Name": "Wheat",
-    "price": "900",
-    "weight": "10.0"
-  },
-  {
-    "Name": "Pulses",
-    "price": "600",
-    "weight": "8.0"
-  }
-]
+{
+  "Rice": [
+
+    {
+      "name": "Rice IR-1",
+      "Price": "100",
+      "Weight": "10"
+    },
+    {
+      "name": "Basmati",
+      "Price": "110",
+      "Weight": "1"
+    },
+    {
+      "name": "Rice-3",
+      "Price": "60",
+      "Weight": "25"
+    }
+
+  ],
+
+  "Wheat": [
+
+    {
+      "name": "Macroni wheat",
+      "Price": "100",
+      "Weight": "10"
+    },
+    {
+      "name": "Wheat-2",
+      "Price": "90",
+      "Weight": "40"
+    },
+    {
+      "name": "Wheat-3",
+      "Price": "50",
+      "Weight": "50"
+    }
+  ],
+  "Pulses": [
+
+    {
+      "name": "chick pea",
+      "Price": "70",
+      "Weight": "10"
+    },
+    {
+      "name": "lentils",
+      "Price": "50",
+      "Weight": "10"
+    },
+    {
+      "name": "tur dal",
+      "Price": "70",
+      "Weight": "20"
+    }
+
+  ]
+ }
