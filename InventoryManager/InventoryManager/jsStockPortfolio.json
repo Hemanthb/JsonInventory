@@ -1,0 +1,17 @@
+[
+  {
+    "shareName": "Reliance",
+    "noOfShares": "100",
+    "sharePrice": "350"
+  },
+  {
+    "shareName": "Infosys",
+    "noOfShares": "120",
+    "sharePrice": "500"
+  },
+  {
+    "shareName": "BPCL",
+    "noOfShares": "100",
+    "sharePrice": "900"
+  }
+]
